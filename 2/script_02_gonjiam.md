@@ -1,0 +1,95 @@
+# Video 02: Korea's Most Haunted Psychiatric Hospital
+## Channel: K-Mystery (English Target)
+
+### Metadata
+- **Title**: Korea's Most Haunted Psychiatric Hospital | K-Mystery
+- **Duration**: ~10 min (target)
+- **Category**: Korean Urban Legends & Occult
+- **Hook**: "42 people died here. The government sealed it off. But something is still inside."
+
+---
+
+### Script
+
+**[0:00 - 0:30] HOOK**
+
+In the mountains south of Seoul, there is a building that the Korean government does not want you to know about. A psychiatric hospital where 42 people died. A place so terrifying that even the Korean military refused to enter it.
+
+The building is sealed. The windows are boarded. And according to hundreds of witnesses, something inside is still alive.
+
+This is the story of Gonjiam Psychiatric Hospital — Korea's most haunted place. And the truth behind it is even more disturbing than the ghost stories.
+
+**[0:30 - 1:30] BACKGROUND**
+
+Gonjiam is a small town in Gyeonggi Province, about 40 minutes from Seoul. It's surrounded by mountains and dense forest. Quiet. Isolated. The kind of place where you could hide something.
+
+In the 1980s, a psychiatric hospital was built here. It was a private facility — small, with about 40 beds. The patients were mostly people with severe mental illness who had nowhere else to go.
+
+For years, the hospital operated normally. But then, something changed.
+
+According to local records and later investigations, the hospital director began cutting corners. Staff were underpaid. Medications were rationed. Patients were neglected. And then, in the late 1990s, the hospital closed its doors.
+
+But here's where the story gets complicated. Officially, the hospital closed because of financial difficulties. The director had mismanaged funds and the facility was shut down by local authorities.
+
+Unofficially, the stories are very different.
+
+**[1:30 - 4:00] THE LEGEND BEGINS**
+
+After the hospital closed, locals began reporting strange things. Lights flickering in windows. Figures moving in the dark. Sounds of screaming coming from inside the abandoned building.
+
+Then, in the early 2000s, Korean ghost hunters and urban explorers began visiting the site. What they found — or claimed to find — turned Gonjiam into a national sensation.
+
+Videos appeared online showing abandoned wheelchairs, patient records scattered on the floor, and a chilling atmosphere of decay. Some explorers reported feeling an overwhelming sense of dread. Others claimed to see shadowy figures in the hallways.
+
+The most famous story involves the hospital director's office. According to legend, the director's chair was found facing the wall, as if someone had been sitting in it, watching the door. And on the desk, a patient file was open to a page that read: "The patient escaped. Do not search."
+
+Whether these stories are true or embellished, they spread like wildfire. Gonjiam became Korea's most famous haunted location — the Korean equivalent of Chernobyl or the Winchester Mystery House.
+
+**[4:00 - 7:00] THE FACTS VS. THE MYTH**
+
+But here's where we need to separate fact from fiction.
+
+In 2018, the Korean government conducted an official investigation into the Gonjiam site. What they found was far less dramatic than the ghost stories.
+
+First: the number of deaths. The legend says 42 people died at the hospital. The investigation found that the actual number was much lower — and most deaths were from natural causes, not mysterious circumstances.
+
+Second: the hospital didn't close because of ghosts. It closed because of financial mismanagement and regulatory violations. The director was investigated for fraud.
+
+Third: the "sealed by the government" story is partially true. After the hospital closed, the local government did restrict access to the site — but not because of paranormal activity. It was because the building was structurally unsafe and trespassers were damaging the property.
+
+But here's the twist. The investigation also confirmed something unsettling. There WERE unusual occurrences at the hospital during its operation. Staff members reported that certain patients exhibited behavior that couldn't be explained by their diagnoses. And the director himself reportedly became obsessed with occult practices in his final years at the facility.
+
+Was the director's interest in the occult a cause of the hospital's problems, or a symptom of his deteriorating mental state? The investigation couldn't determine.
+
+**[7:00 - 9:00] THE GONJIAM MOVIE**
+
+In 2018, a horror film called "Gonjiam: Haunted Asylum" was released in Korea. It became one of the most successful Korean horror films ever made, grossing over $20 million at the box office.
+
+The film follows a group of web series creators who enter the abandoned hospital to livestream their experience. What starts as a publicity stunt becomes a nightmare.
+
+The film was shot on location at the actual hospital site, and the director has stated that several crew members experienced unexplained phenomena during filming. Lights flickered. Equipment malfunctioned. And one crew member reportedly refused to enter certain rooms.
+
+The film's success reignited interest in the site, and a new wave of urban explorers descended on Gonjiam. The local government, frustrated by trespassers, eventually demolished the hospital in 2018.
+
+But the demolition didn't end the stories.
+
+**[9:00 - 10:00] CONCLUSION**
+
+Today, the site where Gonjiam Psychiatric Hospital once stood is empty. The building is gone. But the stories persist.
+
+Some say the spirits were released when the building was demolished. Others say they're still there, in the ground, in the trees, in the air.
+
+What we know for certain is this: a psychiatric hospital operated in the mountains south of Seoul for over a decade. People died there. The director may have practiced occult rituals. And when it closed, the stories began.
+
+Whether Gonjiam was truly haunted or simply a place where human suffering was concentrated and amplified, one thing is clear: the line between madness and the supernatural is thinner than we think.
+
+If you found this story fascinating, subscribe for more Korean mysteries. And hit that like button — it helps more people discover these forgotten places.
+
+---
+
+### Notes for Production
+- **Thumbnail text**: "42 People Died Here. The Government Sealed It."
+- **BGM mood**: Eerie, ambient, low drone, occasional traditional Korean percussion
+- **Visual style**: Dark, abandoned building imagery, fog, night scenes
+- **Key images needed**: Gonjiam hospital exterior, abandoned hallway, wheelchair, patient records, demolition site, movie poster reference
+EOF
