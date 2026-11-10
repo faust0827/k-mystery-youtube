@@ -1,0 +1,6 @@
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_00.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_01.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_02.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_03.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_04.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short3_why_ban_failed/seg_05.mp4'

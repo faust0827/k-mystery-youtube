@@ -1,0 +1,11 @@
+# transient render artifacts
+4/build/_tmp/
+4/build/_check/
+__pycache__/
+
+# large regenerable media (rebuild via 4/build/)
+*.mp4
+*.mp3
+*.wav
+4/vo/*.mp3
+4/vo/*.wav

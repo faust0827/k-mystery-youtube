@@ -1,0 +1,6 @@
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_00.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_01.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_02.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_03.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_04.mp4'
+file '/home/j/문서/project/youtube/4/build/_tmp_short1_kings_secret_shaman/seg_05.mp4'
