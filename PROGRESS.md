@@ -44,7 +44,7 @@
 - thumbnails/design_specs.md — 3 thumbnail redesigns (2 per video)
 - metadata/video1.md, video2.md, video3.md — new titles/descriptions/tags
 - plan/12week.md — 12-week upload plan (longform 1/week, Shorts 3/week, 30 topics)
-- plan/shorts_scripts.md — 6 Shorts scripts from existing videos
+- shorts/docs/shorts_scripts.md — 6 Shorts scripts from existing videos
 
 ## Thumbnails generated (OpenCode, 2026-11-10)
 - thumbnails/v1_a_buried_alive.png, v1_b_8days.png
@@ -63,7 +63,7 @@
 - `4/source_cards/` — 실록 원문 카드 6장 (1920x1080, 한자/한글 + 영어 + 출처)
 - `4/tts_chunks/` — 나레이션 8청크 (1,327 words ≈ 9.5~10분)
 - `4/prompts/images.md` — 샷 리스트 50개 + 레오나르도 프롬프트
-- `4/shorts_out/` — Shorts 3개 완성 (1080x1920, 41/36/43초, Edge TTS, 카드 오버레이)
+- `shorts/video04/` — Shorts 3개 완성 (1080x1920, 41/36/43초, Edge TTS, 카드 오버레이)
   - `short1_kings_secret_shaman.mp4`
   - `short2_dragon_robe.mp4`
   - `short3_why_ban_failed.mp4`

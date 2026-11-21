@@ -1,0 +1,55 @@
+{
+  "id": "20261121_110928",
+  "topic": "Yeonsangun's palace purge: the Joseon king who turned his own court into a killing field",
+  "title": "Yeonsangun's palace purge: the Joseon king who turned his own court into a killing field | K-Mystery",
+  "sections": [
+    {
+      "id": "01_coldopen",
+      "narration": "Joseon Korea, the kingdom that prided itself on Confucian virtue. But in 1494, a twenty-year-old took the throne—and within a decade, the royal palace became a place where scholars bled on the courtyard stones. This is the story of Yeonsangun, the king who turned his own court into a killing field. Born the son of a deposed queen, raised on a secret grief, he would not stop until the men who destroyed his mother were dead—and then he kept going. By 1506, ministers, concubines, and servants had all learned the same lesson: in Yeonsangun's palace, no one was safe.",
+      "image_prompt": "Joseon Korea royal palace courtyard at dusk, cinematic wide shot, silhouettes of scholars kneeling on stone pavement, blood pooling in torchlight, distant palace roofs, fog drifting between wooden pillars, no close-up faces, moody atmospheric lighting",
+      "motion_prompt": "slow camera pan across courtyard, torchlight flicker, fog drift, smoke rising from distant brazier"
+    },
+    {
+      "id": "02_birth_and_grief",
+      "narration": "Yeonsangun was born in 1476 to King Seongjong and Queen Yun. When he was three, his mother was accused of poisoning a rival concubine and deposed. Stripped of her title, she was forced to drink poison. The boy was raised by his stepmother, Queen Jeonghyeon, told only that his real mother had died of illness. But the truth leaked out. A court lady told him everything. From that day, the young prince carried a private fury toward the ministers who had signed his mother's death warrant. When Seongjong died in 1494, the eighteen-year-old—actually twenty by Korean age—ascended as the tenth king of Joseon, taking the name Yeonsangun.",
+      "image_prompt": "Joseon Korea palace interior, cinematic, queen's empty throne room in shadows, young prince silhouette standing with back to camera facing lattice window, candlelight flicker, scrolls on floor, no close-up faces, somber mood",
+      "motion_prompt": "slow camera pan across empty throne room, candlelight flicker, fog drift through window lattice"
+    },
+    {
+      "id": "03_first_purge",
+      "narration": "For a few years, the new king ruled without incident. Then in 1498, a scholar named Kim Il-son submitted a memorial criticizing the king's policies. Yeonsangun saw an opportunity. He ordered an investigation into the records of Seongjong's reign—and found that several top ministers had supported Queen Yun's deposition. The first literati purge, the Muo Sagwa, began. Kim Il-son and his allies were tortured, exiled, or executed. The king's message was clear: the men who had destroyed his mother would answer for it. But the purge also silenced anyone who dared question royal authority. The court learned to whisper.",
+      "image_prompt": "Joseon Korea palace courtyard, cinematic, scholars in white robes kneeling in rows, silhouettes only, distant executioner figures with back views, wooden pillars, paper lanterns, no close-up faces, tense atmosphere",
+      "motion_prompt": "slow camera pan across kneeling scholars, lantern flicker, smoke rising, fog drift between pillars"
+    },
+    {
+      "id": "04_second_purge",
+      "narration": "Six years later, the second purge was far worse. In 1504, a royal secretary discovered old documents naming the ministers who had condemned Queen Yun. Yeonsangun exploded. The Gapja Sagwa swept through the government like a blade. Senior officials were beheaded in the palace courtyard. Others were flogged to death. The king personally watched some executions. He ordered that the remains of his mother's enemies be dug up and desecrated. Even minor officials who had merely been present at her trial were hunted down. By the end, dozens of the kingdom's most experienced administrators were dead or in exile, and the government was hollowed out.",
+      "image_prompt": "Joseon Korea palace grounds at night, cinematic, execution platform silhouette, officials in white robes lined up with backs to camera, torches burning, distant palace roofs, no close-up faces, dark dramatic lighting",
+      "motion_prompt": "slow camera pan across execution platform, torchlight flicker, smoke rising from torches, fog drift"
+    },
+    {
+      "id": "05_palace_of_terror",
+      "narration": "With his enemies gone, Yeonsangun turned the palace into his private playground—and prison. He confiscated hundreds of women from commoner families to serve as palace entertainers, the gisaeng. He forced scholars to perform humiliating dances. He seized homes near the palace for hunting grounds. When a fire destroyed part of the complex, he had it rebuilt with forced labor. Anyone who complained was beaten or killed. Even concubines who displeased him were strangled. The king's favorites ruled through terror, and the halls that once echoed with Confucian debate now echoed with screams. Joseon's capital had become a theater of cruelty.",
+      "image_prompt": "Joseon Korea palace interior corridor, cinematic, silhouettes of court ladies and officials with backs to camera, red paper lanterns, ornate wooden lattice, shadows stretching, no close-up faces, oppressive atmosphere",
+      "motion_prompt": "slow camera pan down corridor, lantern flicker, smoke rising, fog drift through lattice"
+    },
+    {
+      "id": "06_fall",
+      "narration": "By 1506, even the king's allies had had enough. A coalition of ministers and military commanders—led by Park Won-jong and Seong Hui-an—moved while Yeonsangun was away hunting. They seized the palace, arrested his favorites, and declared him deposed. The justification was ancient: a king who had abandoned virtue had lost the Mandate of Heaven. Yeonsangun, returning from the hunt, found his own guards turning against him. He was stripped of his title and exiled to Ganghwa Island. The coup was swift and almost bloodless—because by then, almost no one was left willing to die for him.",
+      "image_prompt": "Joseon Korea palace gate at dawn, cinematic, soldiers in armor silhouettes with backs to camera, banners hanging still, mist over stone courtyard, distant palace roofs, no close-up faces, tense quiet mood",
+      "motion_prompt": "slow camera pan across palace gate, mist drift, banner slight movement from wind, fog drift"
+    },
+    {
+      "id": "07_aftermath",
+      "narration": "Yeonsangun died in exile just two months later, in November 1506, reportedly of illness—though some whispered of poison. He was thirty years old. His half-brother, Jungjong, took the throne and spent years undoing the damage. The purges had killed or exiled over a hundred scholars and officials, gutting Joseon's civil service for a generation. Historians still debate whether Yeonsangun was a monster born of grief or a tyrant who simply found an excuse. What is certain is that the kingdom never forgot. His reign became a warning: even a throne built on filial piety can become an altar of blood.",
+      "image_prompt": "Joseon Korea coastal exile island, cinematic, lone silhouette of deposed king with back to camera facing gray sea, overcast sky, distant fishing boats, rocky shore, no close-up faces, melancholic mood",
+      "motion_prompt": "slow camera pan across sea horizon, fog drift, light flicker on water, smoke rising from distant shore"
+    },
+    {
+      "id": "08_outro",
+      "narration": "So the next time you walk through the gates of a Joseon palace, remember what those stones have seen. Yeonsangun did not destroy his kingdom with foreign armies—he destroyed it from within, one purge at a time, until the court itself became the killing field. History remembers him not as a king, but as a caution. Subscribe to K-Mystery for more stories from Korea's shadowed past. And tell us in the comments: was Yeonsangun a son avenging his mother, or a tyrant who simply enjoyed the killing? We'll see you in the next mystery.",
+      "image_prompt": "Joseon Korea palace gate at twilight, cinematic, empty stone courtyard, side view of massive wooden gate, lanterns glowing, fog drifting between pillars, no people, no close-up faces, haunting atmospheric mood",
+      "motion_prompt": "slow camera pan across empty courtyard, lantern flicker, fog drift, smoke rising from distant brazier"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+video: /home/j/문서/project/youtube/auto/jobs/20261121_110928/final_small.mp4 39402344 bytes
+upload-url: 200
+upload info keys: ['path', 'upload_url', 'token', 'content_type', 'max_bytes', 'max_total_bytes', 'retention_days', 'retention', 'how']
+PUT: 200
+finalize: 200
+media_url obtained: https://1d5ada8543e4486a8741866e24f976e5.r2.cloudflarestorage.com/postwire-media/10d9a2f0-f368-46d3-
+post: 200
+{"posted":1,"published_to":"Published to Korean Mysteries (My brand) on youtube.","results":[{"ok":true,"platform":"youtube","id":"B85Rv-eM0uE","url":"https://youtu.be/B85Rv-eM0uE","status":"uploaded","privacy":"unlisted","channel_id":"UCXhyuxrO1-T4FM-P_hG6s7Q","channel_title":"Korean Mysteries","account":{"platform":"youtube","handle":null,"display_name":"Korean Mysteries","brand_id":"71e65546-2e0f-4e64-9cb8-7c0d259f8873","brand":"My brand","label":"Korean Mysteries (My brand)"}}]}

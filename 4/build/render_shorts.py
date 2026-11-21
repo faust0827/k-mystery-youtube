@@ -5,21 +5,21 @@ import asyncio, glob, os, subprocess, sys
 BASE = "/home/j/문서/project/youtube/4"
 ROOT = "/home/j/문서/project/youtube"
 VO = os.path.join(BASE, "vo")
-SHORTS = os.path.join(BASE, "shorts")
-OUTDIR = os.path.join(BASE, "shorts_out")
+SHORTS = os.path.join(ROOT, "shorts", "video04")
+OUTDIR = os.path.join(ROOT, "shorts", "video04")
 CARDS = os.path.join(BASE, "source_cards")
 BGM = os.path.join(ROOT, "1", "Missing Persons - Jeremy Blake.mp3")
 W, H, FPS = 1080, 1920, 30
 VOICE = "en-US-GuyNeural"
 
 SHORTS_CFG = [
-    dict(name="short1_kings_secret_shaman", text="shorts/short1.txt",
+    dict(name="short1_kings_secret_shaman", text="shorts/video04/short1.txt",
          images=["1/1.jpg","1/3.jpg","3/1.jpg","1/8.jpg"],
          card="card1_1477.png", card_at=20),
-    dict(name="short2_dragon_robe", text="shorts/short2.txt",
+    dict(name="short2_dragon_robe", text="shorts/video04/short2.txt",
          images=["2/7.png","2/8.png","3/6.jpg","1/4.jpg"],
          card="card5_1684.png", card_at=14),
-    dict(name="short3_why_ban_failed", text="shorts/short3.txt",
+    dict(name="short3_why_ban_failed", text="shorts/video04/short3.txt",
          images=["2/1.jpg","2/3.png","3/8.jpg","3/9.jpg","1/2.jpg"],
          card="card2_1431.png", card_at=8),
 ]
@@ -112,7 +112,7 @@ def render_one(cfg):
     tmp = os.path.join(BASE, "build", "_tmp_" + name)
     os.makedirs(tmp, exist_ok=True)
     os.makedirs(OUTDIR, exist_ok=True)
-    text_path = os.path.join(BASE, cfg["text"])
+    text_path = os.path.join(ROOT, cfg["text"])
     wav_path = os.path.join(VO, name + ".wav")
     srt_path = os.path.join(VO, name + "_short.srt")
     out_path = os.path.join(OUTDIR, name + ".mp4")

@@ -1,0 +1,35 @@
+STEP 1/6: script (opencode run)
+job saved: 20261121_110928
+STEP 2/6: images (nano banana)
+  image 1 800446 bytes
+  image 2 733409 bytes
+  image 3 787536 bytes
+  image 4 749635 bytes
+  image 5 820121 bytes
+  image 6 790805 bytes
+  image 7 850555 bytes
+  image 8 707247 bytes
+STEP 3/6: TTS (edge-tts, free)
+narration: 313.08 s, captions: 104
+STEP 4/6: i2v (kling 2.6, 5s)
+  clip 1
+  clip 1 7602652 bytes
+  clip 2
+  clip 2 6227797 bytes
+  clip 3
+  clip 3 7051972 bytes
+  clip 4
+  clip 4 6434263 bytes
+  clip 5
+  clip 5 8095549 bytes
+  clip 6
+  clip 6 6314332 bytes
+  clip 7
+  clip 7 10045115 bytes
+  clip 8
+  clip 8 5437651 bytes
+STEP 5/6: render
+final: /home/j/문서/project/youtube/auto/jobs/20261121_110928/final.mp4 318.4s
+STEP 6/6: upload payload
+payload: /home/j/문서/project/youtube/auto/jobs/20261121_110928/post_payload.json
+실제 업로드는 승인 후 video_url 을 넣어 PostWire 로 실행합니다.

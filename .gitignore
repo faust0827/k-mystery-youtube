@@ -9,3 +9,21 @@ __pycache__/
 *.wav
 4/vo/*.mp3
 4/vo/*.wav
+
+# secrets — 절대 커밋 금지
+.env
+client_secret.json
+token.json
+
+# signed/temporary upload URLs (expire, contain AWS credential id)
+post_payload.json
+**/post_payload.json
+upload_result.json
+**/upload_result.json
+media_url.txt
+upload_url.txt
+
+# smoke/check artifacts (regenerable)
+auto/_smoke_*
+auto/jobs/*/_check_*
+auto/jobs/*/images/

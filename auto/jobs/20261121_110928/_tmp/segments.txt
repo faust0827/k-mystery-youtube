@@ -1,0 +1,8 @@
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_01.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_02.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_03.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_04.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_05.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_06.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_07.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/_tmp/seg_08.mp4'

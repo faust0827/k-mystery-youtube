@@ -59,7 +59,7 @@
 1. `thumbnails/` — 3편 썸네일 리디자인 안 (1280x720 PNG). 텍스트 오버레이 포함. 기존 이미지 소스가 있으면 재사용, 없으면 `채널/` 스타일 참고해 생성. 각 안은 2개씩.
 2. `metadata/` — 3편의 새 제목·설명·태그 (복붙 가능한 형태, `metadata/video1.md` 형식)
 3. `plan/12week.md` — 12주 업로드 계획 (롱폼 주 1~2, Shorts 주 3~5, 소재 30개 리스트 포함)
-4. `plan/shorts_scripts.md` — 기존 3편 기반 Shorts 대본 6개 (훅 3초 포함)
+4. `shorts/docs/shorts_scripts.md` — 기존 3편 기반 Shorts 대본 6개 (훅 3초 포함)
 5. `PROGRESS.md` 업데이트 — 위 작업 내역 추가
 
 ## 4. 제약

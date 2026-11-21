@@ -1,0 +1,2 @@
+file '/home/j/문서/project/youtube/intro_5s.mp4'
+file '/home/j/문서/project/youtube/auto/jobs/20261121_110928/roughcut.mp4'
